@@ -1,0 +1,1 @@
+drush-10.4.0,GPL2,https://github.com/drush-ops/drush/archive/10.4.0.tar.gzdrupal-plugin-ctools-8.3.4,GPL2,https://ftp-origin.drupal.org/files/projects/ctools-8.x-3.4.tar.gzdrupal-plugin-smtp-8.1.0,GPL2,https://ftp-origin.drupal.org/files/projects/smtp-8.x-1.0.tar.gzdrupal-8.9.13,GPL2,https://ftp.drupal.org/files/projects/drupal-8.9.13.tar.gz
